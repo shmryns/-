@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+//建议使用稳定版node
 yarn install
 ```
 
